@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: servicepedido
+server:
+  port: 8080
